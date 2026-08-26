@@ -1,0 +1,10 @@
+REPLACE THIS FILE.
+
+Choose a license before you leave the valley, and put its full text here.
+
+  code, copyleft ....... AGPL-3.0-or-later   https://spdx.org/licenses/AGPL-3.0-or-later
+  code, permissive ..... MIT                 https://spdx.org/licenses/MIT
+  docs, designs ........ CC-BY-SA-4.0        https://spdx.org/licenses/CC-BY-SA-4.0
+  hardware, copyleft ... CERN-OHL-S-2.0      https://spdx.org/licenses/CERN-OHL-S-2.0
+
+  gh repo license list          # or just: pick one and paste the text
